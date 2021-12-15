@@ -23,3 +23,10 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+
+#### NOTES:
+
+React - component: makes html
+          Nest them together to make complex apps
+          Javascript to produce html
